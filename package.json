@@ -1,0 +1,1 @@
+{"description":"Writes a single Wi-Fi network name of at most 32 characters to /output/entry.txt for make.fun's Tell a Whole Story in 32 Characters bounty.","license":"MIT","main":"main.ts","name":"wifi-story-32","scripts":{"start":"node main.ts"},"type":"module","version":"1.0.0"}
